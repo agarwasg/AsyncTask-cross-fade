@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="artists">
+        <item>@string/RHCP</item>
+        <item>@string/DangerMouse</item>
+        <item>@string/AndrewBird</item>
+        <item>@string/BonIver</item>
+        <item>@string/BlackKeys</item>
+    </string-array>
+
+</resources>
